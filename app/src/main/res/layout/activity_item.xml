@@ -1,0 +1,7 @@
+<!-- layout/activity_item.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvActivityItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:textAppearance="@style/TextAppearance.MaterialComponents.Body1" />
